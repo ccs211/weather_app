@@ -27,9 +27,9 @@ const getCity = async(city) => {
 
 };
 
-getCity('caracas').then(data => {
-    return getWeather(data.Key);
-    }).then(data => {
-        console.log(data);
-    }).catch(err => conmsole.log(err));
+// getCity('caracas').then(data => {
+//     return getWeather(data.Key);
+//     }).then(data => {
+//         console.log(data);
+//     }).catch(err => console.log(err));
 
