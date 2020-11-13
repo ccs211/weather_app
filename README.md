@@ -1,5 +1,5 @@
-# weather_app
-## My Weather App with JavaScript.
+# My Weather App with JavaScript
+
 Fun liltle project to practice:
 * Async & Await 
 * Making HTTP request 
