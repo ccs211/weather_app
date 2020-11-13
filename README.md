@@ -9,4 +9,4 @@ Fun liltle project to practice:
 
 All the data is from the [AccuWeather API](https://developer.accuweather.com/)
 
-Check it out [here]!(https://alex-weather-app.netlify.app/)
+Check it out [here](https://alex-weather-app.netlify.app/)
