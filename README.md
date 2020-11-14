@@ -1,6 +1,7 @@
 # My Weather App with JavaScript
 
 Fun liltle project to practice:
+* OOP
 * Async & Await 
 * Making HTTP request 
 * Promises
